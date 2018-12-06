@@ -22,9 +22,9 @@
 			<div class="body" >
 				<div class="header-title" >{{ $t("accountPage.balanceBlock.title") }}</div>
 				<div class="content" >
-					<span class="walletAmount" >{{ $n(walletAmount / currencyDivider) }}</span> MSR
+					<span class="walletAmount" >{{ $n(walletAmount / currencyDivider) }}</span> TRD
 					<tempate class="amount unlocked" v-if="unlockedWalletAmount !== walletAmount" >
-						<br/><span class="walletAmount" >{{ $t("accountPage.balanceBlock.unlocked") }}: {{ $n(unlockedWalletAmount / currencyDivider) }}</span> MSR
+						<br/><span class="walletAmount" >{{ $t("accountPage.balanceBlock.unlocked") }}: {{ $n(unlockedWalletAmount / currencyDivider) }}</span> TRD
 					</tempate>
 				</div>
 			</div>
@@ -64,7 +64,7 @@
 										</template>
 									</span><br>
 									<div class="actions tc" >
-										<a href="#receive" class="btn">{{ $t("accountPage.historyBlock.getMSRAddress") }}</a>
+										<a href="#receive" class="btn">{{ $t("accountPage.historyBlock.getTRDAddress") }}</a>
 									</div>
 								</td>
 							</tr>
