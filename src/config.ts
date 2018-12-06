@@ -1,7 +1,7 @@
 let global : any = typeof window !== 'undefined' ? window : self;
 global.config = {
 	apiUrl:typeof window !== 'undefined' && window.location ? window.location.href.substr(0,window.location.href.lastIndexOf('/')+1)+'api/' : 'https://www.masariwallet.com/api/',
-	mainnetExplorerUrl: "https://explorer.bittrader.io,
+	mainnetExplorerUrl: "https://explorer.bittrader.io",
 	mainnetExplorerUrlHash: "https://msrchain.net/tx/{ID}",
 	mainnetExplorerUrlBlock: "https://msrchain.net/block/{ID}",
 	testnetExplorerUrl: "http://testnet.msrchain.net/",
