@@ -310,7 +310,7 @@
 		"hashrate":"Hashrate",
 		"maxHashrate":"Μέγιστο Hashrate",
 		"dedicatedHardware":"Με εξειδικευμένο λογισμικό και υλισμοκό για mining μπορείτε να αμοιφθείτε περισσότερα και να βοηθήσει στην αποκέντρωση του δικτύου.",
-		"miningHandledBy":"Το mining σε αυτή τη σελίδα διαχειρίζεται από το pool get.pool.bittrader.io.com"
+		"miningHandledBy":"Το mining σε αυτή τη σελίδα διαχειρίζεται από το pool pool.bittrader.io.com"
 	  }
 	},
 	"settingsPage":{
