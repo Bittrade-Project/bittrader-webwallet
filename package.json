@@ -10,12 +10,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnock/bittrader-webwallet.git"
+    "url": "git+https://github.com/bittrade-project/bittrader-webwallet.git"
   },
   "author": "Gnock",
   "license": "BSD-3",
   "bugs": {
-    "url": "https://github.com/gnock/bittrader-webwallet/issues"
+    "url": "https://github.com/bittrade-project/bittrader-webwallet/issues"
   },
-  "homepage": "https://github.com/gnock/bittrader-webwallet#readme"
+  "homepage": "https://github.com/bittrade-project/bittrader-webwallet#readme"
 }
