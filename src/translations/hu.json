@@ -311,7 +311,7 @@
 		"hashrate":"Hashrate",
 		"maxHashrate":"Maximális hashrate",
 		"dedicatedHardware":"Bányászásra dedikált szoftver és hardver használatával nagyobb bevételre tehetsz szert és segíthetsz a hálózat decentralizálásában.",
-		"miningHandledBy":"Ezt a bányászást a pool.bittrader.io.com pool kezeli"
+		"miningHandledBy":"Ezt a bányászást a pool.bittrader.io pool kezeli"
 	  }
 	},
 	"settingsPage":{

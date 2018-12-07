@@ -311,7 +311,7 @@
 		"hashrate":"Hashrate",
 		"maxHashrate":"Max Hashrate",
 		"dedicatedHardware":"With dedicating mining software and hardware, you could earn more and help decentralize the network.",
-		"miningHandledBy":"This mining is handled by the mining pool pool.bittrader.io.com"
+		"miningHandledBy":"This mining is handled by the mining pool pool.bittrader.io"
 	  }
 	},
 	"settingsPage":{
