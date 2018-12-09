@@ -3,7 +3,7 @@ global.config = {
 	apiUrl:typeof window !== 'undefined' && window.location ? window.location.href.substr(0,window.location.href.lastIndexOf('/')+1)+'api/' : 'https://wallet.bittrader.io/api/',
 	mainnetExplorerUrl: "https://explorer.bittrader.io",
 	mainnetExplorerUrlHash: "https://explorer.bittrader.io/transaction.html?hash={ID}",
-	mainnetExplorerUrlBlock: "https://explorer.bittrader.io/block.html?hash={ID}",
+	mainnetExplorerUrlBlock: "https://explorer.bittrader.io/block.html?height={ID}",
 	testnetExplorerUrl: "http://testnet.trdchain.net/",
 	testnetExplorerUrlHash: "http://testnet.trdchain.net/tx/{ID}",
 	testnetExplorerUrlBlock: "http://testnet.trdchain.net/block/{ID}",
