@@ -1,6 +1,6 @@
 let global : any = typeof window !== 'undefined' ? window : self;
 global.config = {
-	apiUrl:typeof window !== 'undefined' && window.location ? window.location.href.substr(0,window.location.href.lastIndexOf('/')+1)+'api/' : 'https://bittrader.io/api/',
+	apiUrl:typeof window !== 'undefined' && window.location ? window.location.href.substr(0,window.location.href.lastIndexOf('/')+1)+'api/' : 'https://wallet.bittrader.io/api/',
 	mainnetExplorerUrl: "https://explorer.bittrader.io",
 	mainnetExplorerUrlHash: "https://explorer.bittrader.io/transaction.html?hash={ID}",
 	mainnetExplorerUrlBlock: "https://explorer.bittrader.io/block.html?hash={ID}",
